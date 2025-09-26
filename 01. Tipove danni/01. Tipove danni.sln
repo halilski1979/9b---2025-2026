@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. AreaSquare", "01. AreaSquare\01. AreaSquare.csproj", "{21A7D612-E9CC-4A51-B217-70DCD9D168F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. AreaRectangle", "02. AreaRectangle\02. AreaRectangle.csproj", "{93B36D23-4A83-4D58-A77E-545FBE9E9DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A7D612-E9CC-4A51-B217-70DCD9D168F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A7D612-E9CC-4A51-B217-70DCD9D168F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A7D612-E9CC-4A51-B217-70DCD9D168F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A7D612-E9CC-4A51-B217-70DCD9D168F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B36D23-4A83-4D58-A77E-545FBE9E9DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B36D23-4A83-4D58-A77E-545FBE9E9DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B36D23-4A83-4D58-A77E-545FBE9E9DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B36D23-4A83-4D58-A77E-545FBE9E9DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987C47B2-FA41-46A5-A266-F399515B44B8}
+	EndGlobalSection
+EndGlobal
