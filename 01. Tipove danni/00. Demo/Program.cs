@@ -1,21 +1,16 @@
-﻿namespace _00._Demo
+﻿using System.Diagnostics.Metrics;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace _00._Demo
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            //Можем да достъпим минималните и максималните стойности на числовите типове с  MinValue / MaxValue:
+            List<int> numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
+            List<string> names = Console.ReadLine().Split(' ').ToList();
 
-            Console.Write("A = ");
-            double a = double.Parse(Console.ReadLine());
-            Console.Write("B = ");
-            double b = double.Parse(Console.ReadLine());
-            Console.Write("h = ");
-            double h = double.Parse(Console.ReadLine());
-            double S = (a + b) / 2 * h;
-
-            Console.WriteLine(S);
-
+            numbers.Remove(0);
 
         }
 
