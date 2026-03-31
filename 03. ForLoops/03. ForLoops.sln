@@ -1,13 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Demo", "01. Demo\01. Demo.csproj", "{D924B7E7-22EF-4813-98F6-09B31C4F47D3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Demo2", "02. Demo2\02. Demo2.csproj", "{DEA6A897-1D90-47C7-B64D-96CAF9E04522}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.2 - z5 - SborChisla", "6.2 - z5 - SborChisla\6.2 - z5 - SborChisla.csproj", "{7545E39A-F5B0-4541-BD92-FD21AF4DD020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00. Demo", "00. Demo\00. Demo.csproj", "{0958B41B-37AF-47EF-BDCA-D19FC2102346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. VlojenCikal", "4. VlojenCikal\4. VlojenCikal.csproj", "{EC7232C5-0B04-4774-98D6-9720DEFA906B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.3 - z6 - MagicNumbers", "07.3 - z6 - MagicNumbers\07.3 - z6 - MagicNumbers.csproj", "{C5CBFB83-15D9-40E5-A85C-00DAEF0236B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.4 - 10 - SpeecialNumbers", "07.4 - 10 - SpeecialNumbers\07.4 - 10 - SpeecialNumbers.csproj", "{88235EC8-11B8-4F26-9B32-CDF8B008C574}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{7545E39A-F5B0-4541-BD92-FD21AF4DD020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7545E39A-F5B0-4541-BD92-FD21AF4DD020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7545E39A-F5B0-4541-BD92-FD21AF4DD020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0958B41B-37AF-47EF-BDCA-D19FC2102346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0958B41B-37AF-47EF-BDCA-D19FC2102346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0958B41B-37AF-47EF-BDCA-D19FC2102346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0958B41B-37AF-47EF-BDCA-D19FC2102346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7232C5-0B04-4774-98D6-9720DEFA906B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7232C5-0B04-4774-98D6-9720DEFA906B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7232C5-0B04-4774-98D6-9720DEFA906B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7232C5-0B04-4774-98D6-9720DEFA906B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CBFB83-15D9-40E5-A85C-00DAEF0236B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CBFB83-15D9-40E5-A85C-00DAEF0236B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CBFB83-15D9-40E5-A85C-00DAEF0236B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CBFB83-15D9-40E5-A85C-00DAEF0236B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88235EC8-11B8-4F26-9B32-CDF8B008C574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88235EC8-11B8-4F26-9B32-CDF8B008C574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88235EC8-11B8-4F26-9B32-CDF8B008C574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88235EC8-11B8-4F26-9B32-CDF8B008C574}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
